@@ -58,8 +58,8 @@ http://juocode.github.io/jianli
 
 #####Ruby
 
-优先并且强烈的推荐 **[Code School](https://www.codeschool.com "Code School")** 的 **[Try Ruby](http://www.codeschool.com/paths/ruby "Try Ruby")** 课程（可能需要翻墙），如果需要深入则可以看一看著名的“镐头书”**[《Programming Ruby》](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0 "Programming Ruby")**。
+优先并且强烈的推荐 **[Code School](https://www.codeschool.com "Code School")** 的 **[Try Ruby](http://www.codeschool.com/paths/ruby "Try Ruby")** 课程（可能需要翻墙），如果需要深入则可以看一看著名的“镐头书”[**《Programming Ruby》**](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0 "Programming Ruby")。
 
 #####Rails
 
-推荐中文版的**[《Ruby on Rails Tutorial》](http://railstutorial-china.org "Ruby on Rails Tutorial")**里面也简单的介绍了 Git 和 Ruby 基础知识，英文比较好的朋友最好去看 **[英文原版](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0 "Ruby on Rails Tutorial")** 或者或者直接查阅官方的 **[Rails Guide](http://guides.rubyonrails.org “Rails Guide”)**。
+推荐中文版的[**《Ruby on Rails Tutorial》**](http://railstutorial-china.org "Ruby on Rails Tutorial")里面也简单的介绍了 Git 和 Ruby 基础知识，英文比较好的朋友最好去看 **[英文原版](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0 "Ruby on Rails Tutorial")** 或者或者直接查阅官方的 **[Rails Guide](http://guides.rubyonrails.org “Rails Guide”)**。
