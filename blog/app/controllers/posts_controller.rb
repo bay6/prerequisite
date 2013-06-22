@@ -80,4 +80,13 @@ class PostsController < ApplicationController
       format.json { head :no_content }
     end
   end
+  
+  before_filter :authenticate, :except => [:index, :show]
+
+  private
+  def authenticate
+    authenticate_or_request_with_http_basic do |name, password|
+      name == "admin" && password == "password"
+    end
+  end
 end

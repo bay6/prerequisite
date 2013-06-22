@@ -12,7 +12,7 @@
 
 <% @posts.each do |post| %>
   <tr>
-    <td><%= post.title %></td>
+    <td><%= link_to post.title, post %></td>
     <td><%= post.user %></td>
     <td><%= post.content %></td>
     <td><%= link_to 'Show', post %></td>

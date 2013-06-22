@@ -20,8 +20,8 @@
     <%= f.text_field :user %>
   </div>
   <div class="field">
-    <%= f.label :post %><br />
-    <%= f.text_field :post %>
+  	<%= f.label :post %><br />
+  	<%= f.collection_select :post_id, Post.all, :id, :title %>
   </div>
   <div class="actions">
     <%= f.submit %>
