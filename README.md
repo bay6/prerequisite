@@ -35,3 +35,17 @@ http://juocode.github.io/jianli
 下一项目，个人简历准备用js和rails页面，集体开发模版
 提前准备工作，
 1. 确定3周时间的核心详见群空间
+
+##新手学习指引
+
+以下是对新人学习Ruby on Rails的一些建议。
+
+###开发环境
+
+####操作系统
+优先推荐Mac OS X，其次是Ubuntu，最不推荐的就是Windows，因为你将浪费大量的时间在解决Windows下得各种问题上，所以最次的选择也是装一个虚拟机（推荐VMware，性能最好）来跑Ubuntu。
+
+####开发工具
+优先并且强烈的推荐使用操作系统自带的 **Terminal（终端程序/命令行）+ [Sublime Text 2](http://www.sublimetext.com "Sublime Text")**，你将发现绝大多数能够找到的资料都是用的这些。
+
+***（未完待续）***
