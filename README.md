@@ -1,12 +1,14 @@
 prerequisite
 ============
 
+新手入职工会，检验项目
+
 #任务完成情况
+
 @biorainy 第一名完成pull request任务，第一名毕业<br/>
 @howiehu 毕业,挑战github登录集成devise中级项目中<br/>
 
 
-新手入职工会，检验项目
 
 ## Objective
 http://juocode.github.io/jianli
