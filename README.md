@@ -2,7 +2,8 @@ prerequisite
 ============
 
 #任务完成情况
-@biorainy 第一名完成pull request任务，上传rails blog，和修改图片名称功能将完成入职任务
+@biorainy 第一名完成pull request任务，第一名毕业
+@howiehu 毕业
 
 新手入职工会，检验项目
 
