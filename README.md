@@ -14,6 +14,7 @@ prerequisite
 @majia2968 完成pull request，需要解决冲突<br/>
 @vincent178 完成pull request，差blog<br/>
 @williamherry 完成pull request，差blog<br/>
+@yipingwang 完成pull request, 差blog
 
 
 ## Objective
@@ -80,5 +81,4 @@ http://juocode.github.io/jianli
 
 推荐中文版的[**《Ruby on Rails Tutorial》**](http://railstutorial-china.org "Ruby on Rails Tutorial")里面也简单的介绍了 Git 和 Ruby 基础知识，英文比较好的朋友最好去看 **[英文原版](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0 "Ruby on Rails Tutorial")** 或者或者直接查阅官方的 **[Rails Guide](http://guides.rubyonrails.org “Rails Guide”)**。
 
-@yipingwang申请pull request
 
