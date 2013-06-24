@@ -18,14 +18,20 @@ prerequisite
 ## Objective
 http://juocode.github.io/jianli
 
+入职新手任务:
+
 正式项目7/6开始，正式项目会用rails和js，做出几个模式的个人简历网站，部署到heroku上。上面是一个例子。可以从linkedin上找写数据做例子，专注做模版。希望完成这个项目以后，每个成员都有一个自己满意的个人简历主页。
+
+入职中高级工会任务：
+
+开发工会系统，维护工会人员成长进度
 
 项目成功条件：
 熟悉各种项目协作中用到的技术
 
 ## 任务列表
 
-1. fork star项目
+1. fork star项目, 请不要吝啬star自己的项目
 
 2. 提交代码，pull request
 
