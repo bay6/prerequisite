@@ -20,6 +20,15 @@ http://juocode.github.io/jianli
 
 入职新手任务:
 
+1. fork star项目, 请不要吝啬star自己的项目
+
+2. 提交代码，pull request
+
+3. 创建issue，close
+
+4. 解决冲突
+
+
 正式项目7/6开始，正式项目会用rails和js，做出几个模式的个人简历网站，部署到heroku上。上面是一个例子。可以从linkedin上找写数据做例子，专注做模版。希望完成这个项目以后，每个成员都有一个自己满意的个人简历主页。
 
 入职中高级工会任务：
@@ -29,15 +38,6 @@ http://juocode.github.io/jianli
 项目成功条件：
 熟悉各种项目协作中用到的技术<br/>
 参考：https://github.com/bay6/prerequisite/wiki
-## 任务列表
-
-1. fork star项目, 请不要吝啬star自己的项目
-
-2. 提交代码，pull request
-
-3. 创建issue，close
-
-4. 解决冲突
 
 ###Rails 相关任务
 1. 提交issue 到本project
