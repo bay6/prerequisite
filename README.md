@@ -12,7 +12,9 @@ prerequisite
 @kaku87 完成pull request，差blog<br/>
 @yipingwang 完成pull request，需要解决冲突<br/>
 @majia2968 完成pull request，需要解决冲突<br/>
-
+@vincent178 完成pull request，差blog<br/>
+@williamherry 完成pull request，差blog<br/>
+@yipingwang 完成pull request, 差blog
 
 
 ## Objective
@@ -81,3 +83,5 @@ http://juocode.github.io/jianli
 =======
 ***（未完待续）***
 Hello.
+=======
+
