@@ -27,8 +27,8 @@ http://juocode.github.io/jianli
 开发工会系统，维护工会人员成长进度
 
 项目成功条件：
-熟悉各种项目协作中用到的技术
-
+熟悉各种项目协作中用到的技术<br/>
+参考：https://github.com/bay6/prerequisite/wiki
 ## 任务列表
 
 1. fork star项目, 请不要吝啬star自己的项目
