@@ -16,3 +16,5 @@ prerequisite
 5. 完成简单rails项目，现实图片，保存修改图片名字
 
 有问题去主群讨论
+
+@yipingwang申请pull request
