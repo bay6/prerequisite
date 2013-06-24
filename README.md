@@ -49,3 +49,4 @@ http://juocode.github.io/jianli
 优先并且强烈的推荐使用操作系统自带的 **Terminal（终端程序/命令行）+ [Sublime Text 2](http://www.sublimetext.com "Sublime Text")**，你将发现绝大多数能够找到的资料都是用的这些。
 
 ***（未完待续）***
+Hello.
