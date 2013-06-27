@@ -14,7 +14,7 @@ prerequisite
 @kaku87 完成pull request，差blog<br/>
 @yipingwang 完成pull request<br/>
 @majia2968 完成pull request<br/>
-@yipingwang 完成pull request, 差blog
+@yipingwang 完成pull request, 差blog<br/>
 zhangyi2099 完成pull request， 解决冲突中
 
 
