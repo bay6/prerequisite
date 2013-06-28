@@ -6,27 +6,41 @@ prerequisite
 #任务完成情况
 
 @biorainy 第一名完成pull request任务，第一名毕业<br/>
-@howiehu 毕业,挑战github登录集成devise中级项目中<br/>
-
+@howiehu 毕业, github登录集成devise中级项目顺利进行中<br/>
+@vincent178 毕业，完成merge<br/>
+@williamherry 毕业, 完成merge<br/>
+@frank1243 完成pull request任务，等blog，最好能练习merge<br/>
+@loveky 完成pull request任务，差blog<br/>
+@kaku87 完成pull request，差blog<br/>
+@yipingwang 完成pull request<br/>
+@majia2968 完成pull request<br/>
+@yipingwang 完成pull request, 差blog<br/>
+@zhangyi2099 完成pull request， 解决冲突中
 
 
 ## Objective
 http://juocode.github.io/jianli
 
-正式项目7/6开始，正式项目会用rails和js，做出几个模式的个人建立网站，部署到heroku上。上面是一个例子。可以从linkedin上找写数据做例子，专注做模版。希望，完成这个项目以后，每个成员都有一个自己满意的自己写的个人建立主页。
+入职新手任务:
 
-项目成功条件：
-熟悉各种项目协作中用到的技术
-
-## 任务列表
-
-1. fork star项目
+1. fork star项目, 请不要吝啬star自己的项目
 
 2. 提交代码，pull request
 
 3. 创建issue，close
 
 4. 解决冲突
+
+
+正式项目7/6开始，正式项目会用rails和js，做出几个模式的个人简历网站，部署到heroku上。上面是一个例子。可以从linkedin上找写数据做例子，专注做模版。希望完成这个项目以后，每个成员都有一个自己满意的个人简历主页。
+
+入职中高级工会任务：
+
+开发工会系统，维护工会人员成长进度
+
+项目成功条件：
+熟悉各种项目协作中用到的技术<br/>
+参考：https://github.com/bay6/prerequisite/wiki
 
 ###Rails 相关任务
 1. 提交issue 到本project
@@ -67,3 +81,7 @@ http://juocode.github.io/jianli
 #####Rails
 
 推荐中文版的[**《Ruby on Rails Tutorial》**](http://railstutorial-china.org "Ruby on Rails Tutorial")里面也简单的介绍了 Git 和 Ruby 基础知识，英文比较好的朋友最好去看 **[英文原版](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0 "Ruby on Rails Tutorial")** 或者或者直接查阅官方的 **[Rails Guide](http://guides.rubyonrails.org “Rails Guide”)**。
+
+***（未完待续）***
+Hello.
+
