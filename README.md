@@ -87,5 +87,4 @@ http://juocode.github.io/jianli
 ***（未完待续）***
 Hello.
 
-［race](http://rubyunion.com)
 
