@@ -8,7 +8,7 @@ prerequisite
 @biorainy 第一名完成pull request任务，第一名毕业<br/>
 @howiehu 毕业, github登录集成devise中级项目顺利进行中<br/>
 @vincent178 毕业，完成merge<br/>
-@williamherry 毕业, 完成merge<br/>
+@williamherry 毕业, 完成merge, [Blog](http://williamherry.com)<br/>
 @frank1243 完成pull request任务，等blog，最好能练习merge<br/>
 @loveky 完成pull request任务，差blog<br/>
 @kaku87 完成pull request，差blog<br/>
