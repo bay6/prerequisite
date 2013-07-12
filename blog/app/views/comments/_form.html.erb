@@ -12,16 +12,16 @@
   <% end %>
 
   <div class="field">
-    <%= f.label :body %><br />
-    <%= f.text_area :body %>
+    <%= f.label :author %><br />
+    <%= f.text_field :author %>
   </div>
   <div class="field">
-    <%= f.label :user %><br />
-    <%= f.text_field :user %>
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
   </div>
   <div class="field">
-  	<%= f.label :post %><br />
-  	<%= f.collection_select :post_id, Post.all, :id, :title %>
+    <%= f.label :message %><br />
+    <%= f.text_field :message %>
   </div>
   <div class="actions">
     <%= f.submit %>

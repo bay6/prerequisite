@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Blog::Application.config.secret_token = '2c87d0e3a394e87148860db9c293b7a3f66806c0c7c9870f65cb5b6f1b1405589ba78388df55d7da96cf85eba7ad9d801a994e5ab05a38599bd8af2c049b7b05'
+Blog::Application.config.secret_token = 'aeb88214f3608574a506c05995143dda92b18f9b9258922a2ab1b4c4ccbb2e4e5c1e445003ff79b549a6f103fc57fa90da3e35284ddc91fc2a96b856a7a66a41'

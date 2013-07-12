@@ -6,44 +6,46 @@
 </p>
 
 <p>
-  <b>User:</b>
-  <%= @post.user %>
+  <b>Body:</b>
+  <%= @post.body %>
 </p>
 
 <p>
-  <b>Content:</b>
-  <%= @post.content %>
+  <b>Cover:</b>
+  <%= image_tag @post.cover %>
 </p>
-<p>
-  <b>Image:</b>
-  <%= image_tag @post.image_url %>
-</p>
+
+<% unless @post.comments.empty? %>
+<div class="comments">
+	<% 	@post.comments.each do |comment|%>
+		<p><%= comment.author %></p>say:
+		<p><%= comment.message %></p>
+	<% end %>
+</div>
+<% end %>
+
+<div class="new_comments">
+	<%= form_for [@post, Comment.new] do |f| %>
+
+  <div class="field">
+    <%= f.label :author %><br />
+    <%= f.text_field :author %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :message %><br />
+    <%= f.text_field :message %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
+
+</div>
+
 
 <%= link_to 'Edit', edit_post_path(@post) %> |
 <%= link_to 'Back', posts_path %>
-
-<% unless @post.comments.empty? %>
-  <div id="comments">
-    <h3>Comments (<%= @post.comments.length %>)</h3>
-    <% @post.comments.each do |comment| %>
-      <%= comment.user %> say:
-      <%= simple_format(comment.body) %>
-    <% end %>
-  </div>
-<% end %>
-
-<%= form_for [@post, Comment.new] do |f| %>
-  <div id="comments">
-    <h3>New Comment</h3>
-    <p>
-      <%= f.label :user %><br />
-      <%= f.text_field :user %>
-    </p>
-    <p>
-      <%= f.label :body %><br />
-      <%= f.text_area :body, :rows => 10 %>
-    </p>
-    <%= f.hidden_field :post_id, :value => @post.id %>
-    <p><%= f.submit "Add Comment" %></p>
-  </div>
-<% end %>

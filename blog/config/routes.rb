@@ -1,11 +1,13 @@
 Blog::Application.routes.draw do
+
+
   resources :posts do
-  resources :comments, :only => [:create, :index]
+    resources :comments, :only => [:create, :index]
   end
-  
-  resources :comments
-  
-  root :to => 'posts#index'
+
+   resources :comments
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -55,7 +57,7 @@ Blog::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => 'welcome#index'
+   root :to => 'posts#index'
 
   # See how all your routes lay out with "rake routes"
 
