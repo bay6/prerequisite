@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  body: MyText
-  user: MyString
-  post: 
+  author: MyString
+  email: MyString
+  message: MyString
 
 two:
-  body: MyText
-  user: MyString
-  post: 
+  author: MyString
+  email: MyString
+  message: MyString
