@@ -1,4 +1,4 @@
-<%= form_for(@post,:html => {:multipart => true}) do |f| %>
+<%= form_for @post,:html => {:multipart => true}  do |f| %>
   <% if @post.errors.any? %>
     <div id="error_explanation">
       <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
@@ -16,17 +16,12 @@
     <%= f.text_field :title %>
   </div>
   <div class="field">
-    <%= f.label :user %><br />
-    <%= f.text_field :user %>
+    <%= f.label :body %><br />
+    <%= f.text_area :body %>
   </div>
   <div class="field">
-    <%= f.label :content %><br />
-    <%= f.text_area :content %>
-  </div>
-  <div class="field">
-    <%= f.label :image %>
-    <%= f.file_field :image %>
-  </div>
+    <%= file_field_tag "file"%>
+  </div> 
   <div class="actions">
     <%= f.submit %>
   </div>
