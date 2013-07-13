@@ -1,7 +1,6 @@
 class Post < ActiveRecord::Base
+  attr_accessible :body, :cover, :title
   has_many :comments, :dependent => :destroy;
-  validates_uniqueness_of :title                         
-  validates_presence_of :title, :content, :user 
-  #carrierwave image uploader
-  mount_uploader :image,ImageUploader  
+  validates_uniqueness_of :title
+  mount_uploader :cover,CoverUploader
 end
