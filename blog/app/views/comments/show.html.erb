@@ -1,20 +1,16 @@
 <p id="notice"><%= notice %></p>
-
-<p>
-  <b>Body:</b>
-  <%= @comment.body %>
-</p>
-
-<p>
-  <b>User:</b>
-  <%= @comment.user %>
-</p>
-
-<p>
-  <b>Post:</b>
-  <%= @comment.post.title %>
-</p>
-
-
-<%= link_to 'Edit', edit_comment_path(@comment) %> |
-<%= link_to 'Back', comments_path %>
+ 
+ <p>
+   <b>Author:</b>
+   <%= @comment.author %>
+ </p>
+ 
+ <p>
+   <b>Email:</b>
+   <%= @comment.email %>
+ </p>
+ 
+ <p>
+   <b>Message:</b>
+   <%= @comment.message %>
+ </p>
