@@ -9,6 +9,30 @@
 # from scratch. The latter is a flawed and unsustainable approach (the more migrations
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
+<<<<<<< HEAD
+ # It's strongly recommended to check this file into your version control system.
+ 
+ ActiveRecord::Schema.define(:version => 20130712170707) do
+ 
+   create_table "comments", :force => true do |t|
+     t.string   "author"
+     t.string   "email"
+     t.string   "message"
+     t.integer  "post_id"
+     t.datetime "created_at", :null => false
+     t.datetime "updated_at", :null => false
+   end
+ 
+   create_table "posts", :force => true do |t|
+     t.string   "title"
+     t.text     "body"
+     t.string   "cover"
+     t.datetime "created_at", :null => false
+     t.datetime "updated_at", :null => false
+   end
+ 
+ end
+=======
 # It's strongly recommended to check this file into your version control system.
 
 ActiveRecord::Schema.define(:version => 20130712170707) do
@@ -31,3 +55,4 @@ ActiveRecord::Schema.define(:version => 20130712170707) do
   end
 
 end
+>>>>>>> caa13c344357ce423e89707bc404e99e390e4656

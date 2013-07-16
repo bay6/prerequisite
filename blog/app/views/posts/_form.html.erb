@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+ <%= form_for @post,:html => {:multipart => true}  do |f| %>
+   <% if @post.errors.any? %>
+     <div id="error_explanation">
+       <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+     <%= f.text_field :title %>
+   </div>
+   <div class="field">
+     <%= f.label :body %><br />
+     <%= f.text_area :body %>
+   </div>
+   <div class="field">
+     <%= file_field_tag "file"%>
+   </div> 
+   <div class="actions">
+     <%= f.submit %>
+   </div>
+=======
 <%= form_for @post,:html => {:multipart => true}  do |f| %>
   <% if @post.errors.any? %>
     <div id="error_explanation">
@@ -26,3 +44,4 @@
     <%= f.submit %>
   </div>
 <% end %>
+>>>>>>> caa13c344357ce423e89707bc404e99e390e4656
