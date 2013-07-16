@@ -18,12 +18,21 @@ Blog::Application.configure do
   config.assets.compile = false
 
   # Generate digests for assets URLs
+<<<<<<< HEAD
    config.assets.digest = true
  
    # Defaults to nil and saved in location specified by config.assets.prefix
    # config.assets.manifest = YOUR_PATH
  
    # Specifies the header that your server uses for sending files
+=======
+  config.assets.digest = true
+
+  # Defaults to nil and saved in location specified by config.assets.prefix
+  # config.assets.manifest = YOUR_PATH
+
+  # Specifies the header that your server uses for sending files
+>>>>>>> caa13c344357ce423e89707bc404e99e390e4656
   # config.action_dispatch.x_sendfile_header = "X-Sendfile" # for apache
   # config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for nginx
 

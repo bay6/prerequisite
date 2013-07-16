@@ -16,6 +16,7 @@ class PostsControllerTest < ActionController::TestCase
     assert_response :success
   end
 
+<<<<<<< HEAD
 test "should create post" do
      assert_difference('Post.count') do
       post :create, post: { body: @post.body, cover: @post.cover, title: @post.title }
@@ -45,5 +46,36 @@ test "should create post" do
      end
  
      assert_redirected_to posts_path
+=======
+  test "should create post" do
+    assert_difference('Post.count') do
+      post :create, post: { body: @post.body, cover: @post.cover, title: @post.title }
+    end
+
+    assert_redirected_to post_path(assigns(:post))
+  end
+
+  test "should show post" do
+    get :show, id: @post
+    assert_response :success
+  end
+
+  test "should get edit" do
+    get :edit, id: @post
+    assert_response :success
+  end
+
+  test "should update post" do
+    put :update, id: @post, post: { body: @post.body, cover: @post.cover, title: @post.title }
+    assert_redirected_to post_path(assigns(:post))
+  end
+
+  test "should destroy post" do
+    assert_difference('Post.count', -1) do
+      delete :destroy, id: @post
+    end
+
+    assert_redirected_to posts_path
+>>>>>>> caa13c344357ce423e89707bc404e99e390e4656
   end
 end

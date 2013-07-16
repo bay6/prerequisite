@@ -1,6 +1,7 @@
 <h1>Listing comments</h1>
 
 <table>
+<<<<<<< HEAD
    <tr>
      <th>Author</th>
      <th>Email</th>
@@ -20,3 +21,29 @@
    </tr>
  <% end %>
  </table>
+=======
+  <tr>
+    <th>Author</th>
+    <th>Email</th>
+    <th>Message</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @comments.each do |comment| %>
+  <tr>
+    <td><%= comment.author %></td>
+    <td><%= comment.email %></td>
+    <td><%= comment.message %></td>
+    <td><%= link_to 'Show', comment %></td>
+    <td><%= link_to 'Edit', edit_comment_path(comment) %></td>
+    <td><%= link_to 'Destroy', comment, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Comment', new_comment_path %>
+>>>>>>> caa13c344357ce423e89707bc404e99e390e4656
