@@ -5,3 +5,7 @@
 * [#5] I'm no longer a UI designer and I really like programing.  ---tuoxiaozhong
 * [#6] she just like ruby
 * [#7] Code, a beautiful thing; coder, a beautiful man.  ---jsvisa
+* [#7] Programming is very fun. Let's play together. ---xiaoguizi87
+* [#8] Code, a beautiful thing; coder, a beautiful man.  ---jsvisa
+* [#54] Good good study and day day up.
+
