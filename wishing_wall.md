@@ -4,3 +4,5 @@
 * [#4] I'm fourty!!                            ----qqren
 * [#5] I'm no longer a UI designer and I really like programing.  ---tuoxiaozhong
 * [#6] she just like ruby
+* [#54] Good good study and day day up.
+
