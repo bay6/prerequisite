@@ -3,3 +3,4 @@
 * [#3] I am new here pls be nice to me. ---chrisqiu 
 * [#4] I'm fourty!!                            ----qqren
 * [#5] I'm no longer a UI designer and I really like programing.  ---tuoxiaozhong
+* [#6] she just like ruby
