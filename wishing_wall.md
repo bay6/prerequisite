@@ -9,4 +9,4 @@
 * [#8] Code, a beautiful thing; coder, a beautiful man.  ---jsvisa
 * [#54] Good good study and day day up.
 * [#55] 不为乐趣而编程的厨子，不是好地瓜。 --D瓜哥
-
+* [#56] I want to be a ruby programmer
