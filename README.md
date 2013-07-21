@@ -19,3 +19,4 @@
 2. [Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command)
 3. [md 语法说明](http://markdown.tw/)
 4. [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+5. [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/index.html)
