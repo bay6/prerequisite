@@ -1,6 +1,6 @@
 ### 任务内容
 
-1. fork 本任务到自己github仓库，再clone到本地。
+1. star 本项目， fork 本任务到自己github仓库，再clone到本地。
 2. 在self-introduction目录中，新建一个#{github帐号名}.md文件，并在该文件中完成自我介绍（内容无限制）。
 3. 在wishing_wall.md文件中，填写一句真心话（内容无限制），具体格式为"[#{完成pull request的位序号}] #{some words}"。如：`[#1] code for my heart, code for my life.`
 4. 发起pull request，等待合并。
