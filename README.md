@@ -5,8 +5,6 @@
 3. 在wishing_wall.md文件中，填写一句真心话（内容无限制），具体格式为"[#{完成pull request的位序号}] #{some words}"。如：`[#1] code for my heart, code for my life.`
 4. 发起pull request，等待合并。
   
-
-
 ### 任务考点
 
 1. 熟悉github,github fork的流程。
