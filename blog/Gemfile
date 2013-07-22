@@ -24,7 +24,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'sqlite3'
+
 group :development,:test do
 	gem 'rspec-rails'
 end

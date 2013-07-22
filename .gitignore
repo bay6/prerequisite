@@ -17,3 +17,4 @@ pickle-email-*.html
 .idea/
 blog/.idea/
 .DS_Store
+blog/public/uploads/
