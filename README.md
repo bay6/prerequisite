@@ -18,3 +18,4 @@
 3. [md 语法说明](http://markdown.tw/)
 4. [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 5. [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/index.html)
+6. [git视频](http://happycasts.net/episodes?tag_id=2)
