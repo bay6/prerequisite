@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-* [#65] 这次应该对了吧
-=======
 * [#1] code for my heart, code for my life.  ---songjiayang
 * [#2] never give up, future is under your mind. ---xiongbo
 * [#3] I am new here pls be nice to me. ---chrisqiu
@@ -17,4 +14,4 @@
 * [#88] 我其实相当一名心理咨询师。  --Soffolk
 * [#66] plug this hole -- fofore
 * [#63] Let us make some noise,@jsvisa Good One --Shawn
->>>>>>> a8844fcfd3fb51f6fd102bb11baeb3703a726d3e
+* [#65] 这次应该对了吧
