@@ -14,3 +14,4 @@
 * [#88] 我其实相当一名心理咨询师。  --Soffolk
 * [#66] plug this hole -- fofore
 * [#63] Let us make some noise,@jsvisa Good One --Shawn
+* [#42] Grab your towel and DON'T PANIC!  --wolflee 
