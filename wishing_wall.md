@@ -14,4 +14,6 @@
 * [#88] 我其实相当一名心理咨询师。  --Soffolk
 * [#66] plug this hole -- fofore
 * [#63] Let us make some noise,@jsvisa Good One --Shawn
-* [#65] 这次应该对了吧
+* [#42] Grab your towel and DON'T PANIC!  --wolflee
+* [#67] like ruby, like coding
+* [#68] Stay hungry, stay foolish. Ruby On Rails, VENI. VEDI. VICI.
