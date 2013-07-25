@@ -17,3 +17,4 @@
 * [#42] Grab your towel and DON'T PANIC!  --wolflee
 * [#67] like ruby, like coding
 * [#68] Stay hungry, stay foolish. Ruby On Rails, VENI. VEDI. VICI.
+* [#65] 这次经过merge
