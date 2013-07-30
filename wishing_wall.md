@@ -21,3 +21,4 @@
 * [#65] 这次经过merge
 * [#70] Nice to collaborate with all of you ---jiarongxu
 * [#71] Good boy!                           ---xuexiaogui
+* [#72] 折腾的蛋蛋疼                        ---- 台山仔
