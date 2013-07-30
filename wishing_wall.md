@@ -22,3 +22,4 @@
 * [#70] Nice to collaborate with all of you ---jiarongxu
 * [#71] Good boy!                           ---xuexiaogui
 * [#72] 折腾的蛋蛋疼                        ---- 台山仔
+* [#74] Coding for fun.              ---merlinran
