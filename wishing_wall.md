@@ -20,3 +20,4 @@
 * [#68] Stay hungry, stay foolish. Ruby On Rails, VENI. VEDI. VICI.
 * [#65] 这次经过merge
 * [#70] Nice to collaborate with all of you ---jiarongxu
+* [#71] Good boy!                           ---xuexiaogui
