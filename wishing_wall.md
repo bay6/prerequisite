@@ -22,3 +22,4 @@
 * [#70] Nice to collaborate with all of you ---jiarongxu
 * [#71] Good boy!                           ---xuexiaogui
 * [#72] 折腾的蛋蛋疼                        ---- 台山仔
+* [#73] 我有一只小毛驴，我从来也不骑		--leopku
