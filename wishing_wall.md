@@ -26,3 +26,4 @@
 * [#74] Coding for fun.              ---merlinran
 * [#75] 做喜欢的事情才有动力。				----alphaliu
 * [#76] love coding。
+8 [#77] I love coding and ruby.  --windless
