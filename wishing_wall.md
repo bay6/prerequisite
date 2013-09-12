@@ -28,3 +28,4 @@
 * [#76] love coding。
 8 [#77] I love coding and ruby.  --windless
 * [#78] This game is insteresting.   ---free1
+* [#79] learning git   ---yechengxiao
