@@ -31,3 +31,4 @@
 * [#79] learning git   ---yechengxiao
 * [#80] To dream!   ---huohusky
 * [#81] This time, I will win!   ---dqfrank
+* [#82] Coding make you smart   --- arteta8
