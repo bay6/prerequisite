@@ -32,3 +32,4 @@
 * [#80] To dream!   ---huohusky
 * [#81] This time, I will win!   ---dqfrank
 * [#82] 珍惜每一天!   ---flycun
+* [#83] Love The World, Love Our Family, Love Ourself, Love Our Codes. ---snails
