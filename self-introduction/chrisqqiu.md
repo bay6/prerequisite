@@ -1,14 +1,16 @@
-Resume:
+### Resume
 
-Name: Qiu Yuanyang
+### Name
 
-Skill:
+* Qiu Yuanyang
 
-Java,C,C#,Python,PHP
+### Skill
 
-1 year experience in web development using PHP, Javascript, Html and CSS.
+* Java,C,C#,Python,PHP
 
-Education:
+* 1 year experience in web development using PHP, Javascript, Html and CSS.
 
-I am still a student in university...
+### Education
+
+* I am still a student in university...
  
